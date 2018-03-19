@@ -21,7 +21,7 @@
 
 ### Installation & System
 
- * The game doesn't have high system requirements
+ * The game has not high system requirements
  * The application works on all desktop, tablet and phone browsers.
 
  #### License
